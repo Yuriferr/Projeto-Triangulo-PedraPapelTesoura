@@ -1,0 +1,24 @@
+.inputTriangulo{
+    padding: 5px;
+    margin: 30px 20px;
+}
+
+label{
+    margin: 0 20px;
+}
+
+.res{
+    margin-top: 20px;
+}
+
+.labelRes{
+    margin: auto;
+}
+
+p{
+    text-align: center;
+}
+
+.voltar{
+    margin-top: 20px;
+}
